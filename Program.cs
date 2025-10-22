@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Empleados API", Version = "v1" });
 });
 
-// Data (sin repositorio)
+// Data
 builder.Services.AddScoped<EmpleadoData>();
 
 var app = builder.Build();

@@ -704,11 +704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Empleados\\Empleados.Api\\Empleados.Api.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\AplicacionesDario\\Empleados\\Empleados.Api\\Empleados.Api.csproj",
       "projectName": "Empleados.Api",
-      "projectPath": "C:\\Users\\User\\Desktop\\Empleados\\Empleados.Api\\Empleados.Api.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\AplicacionesDario\\Empleados\\Empleados.Api\\Empleados.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Empleados\\Empleados.Api\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\AplicacionesDario\\Empleados\\Empleados.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
